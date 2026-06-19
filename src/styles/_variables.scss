@@ -1,0 +1,11 @@
+:root {
+    // light theme
+    --bg-color: #fff6f9;
+
+    // dark theme
+    // --bg-color: #1a1a1a;
+}
+
+body {
+    background-color: var(--bg-color);
+}
