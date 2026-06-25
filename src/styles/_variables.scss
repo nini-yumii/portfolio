@@ -1,9 +1,74 @@
 :root {
+    --white: #fffefe;
+    --black: #1a1a1a;
+
+    // main & decor
+    --pink: #ffddea;
+    --rose: #f6d2ea;
+    --vert: #d9f0af;
+    --bleu: #ceecf9;
+
     // light theme
     --bg-color: #fff6f9;
 
     // dark theme
-    // --bg-color: #1a1a1a;
+
+    // pinks
+    --pink-darkest: #f08aa8;
+    --pink-darker: #f499b0;
+    --pink-dark: #ffb3c6;
+    --pink-medium: #ffc2d1;
+    --pink-accent: #ffd1db;
+    --pink-bright: #ffc3d3;
+    --pink-light: #ffe5ec;
+    --pink-lighter: #fff0f4;
+    --pink-lightest: #fff6f9;
+
+    // yellows
+
+    // greens
+    --green-darkest: #7cae4f;
+    --green-darker: #94b16f;
+    --green-dark: #b3d07e;
+    --green-medium: #beda9d;
+    --green-accent: #c1e08d;
+    --green-bright: #ddf5ac;
+    --green-light: #d1e9a0;
+    --green-lighter: #e0f0c3;
+    --green-lightest: #eaf3e1;
+
+    // blues
+    --blue-darkest: #a6e3e9;
+    --blue-darker: #cbe4f0;
+    --blue-dark: #d1eaf1;
+    --blue-medium: #cbf1f5;
+    --blue-accent: #c9f1f5;
+    --blue-bright: #defcfc;
+    --blue-light: #daedf6;
+    --blue-lighter: #e0f3f8;
+    --blue-lightest: #e9f3f6;
+
+    // purples
+    --purple-darkest: #a78ebf;
+    --purple-darker: #c1a3d6;
+    --purple-dark: #d9b1df;
+    --purple-medium: #dec4e2;
+    --purple-accent: #e6c9e7;
+    --purple-bright: #f4e3fd;
+    --purple-light: #f2d5f6;
+    --purple-lighter: #f0e4f3;
+    --purple-lightest: #f2e3f8;
+
+    // yellows
+    --yellow-darkest: #f5e47a;
+    --yellow-darker: #faeb8c;
+    --yellow-dark: #f9e7b0;
+    --yellow-medium: #f7e9b3;
+    --yellow-accent: #f9f1c2;
+    --yellow-bright: #fff1cb;
+    --yellow-light: #fff2d0;
+    --yellow-lighter: #fff3d5;
+    --yellow-lightest: #fff4d8;
 }
 
 body {
